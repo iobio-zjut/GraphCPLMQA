@@ -16,15 +16,3 @@ weight file for esm2:*/nfs_baoding_ai/liudong_2023/Monomer/esm-main/esm-pt/esm2_
 ## Predict
 *(project-path)*/bin/run_monomer.sh *pdb-dir*
 >*pdb-dir: This folder contains the pdb files that need to be evaluated.*
-
-## CAEMO Test
-1. week data(*/nfs_baoding_ai/liudong_2023/Monomer/CAEMO_test/pdb_model/quality_estimation_1_week*): 
-   * *(project-path)*/CAEMO_test/step_script/1_run_qa_week.sh
-   >result: The output result csv file is in (project-path)/CAEMO_test/week_out.csv. Please copy the corresponding file to the corresponding folder.
-2. month data(*/nfs_baoding_ai/liudong_2023/Monomer/CAEMO_test/pdb_model/quality_estimation_1_month*):
-    * *(project-path)*/CAEMO_test/step_script/1_run_qa_month.sh
-    >result: The output result csv file is in (project-path)/CAEMO_test/month_out.csv. Please copy the corresponding file to the corresponding folder.
-
-## Training 
-*(project-path)*/bin/train/run_train.sh *project-path* *pdbs-dirs* 
->pdbs-dirs: the folder containing the training data(pdbs). Details see supplement.
