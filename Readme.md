@@ -1,10 +1,6 @@
 # Monomer Model Quality Assessment
 Model quality assessment of monomeric protein structures using language models.
 
-## With Docker
-image:
-harbor.biomap-int.com/guangxing_2023/modelselection:v1
-
 ## weight file
 weight file for network:*http://zhanglab-bioinf.com/GraphCPLMQA/userResult/GCPL.pkl*
 
