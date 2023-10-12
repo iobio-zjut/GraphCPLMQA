@@ -1,6 +1,6 @@
 name: CPL
 channels:
-  - https://conda.graylab.jhu.edu
+  - https://levinthal:paradox@conda.graylab.jhu.edu
   - pytorch
   - nvidia
   - anaconda
