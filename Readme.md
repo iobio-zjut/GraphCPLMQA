@@ -7,7 +7,7 @@ weight file for network:*http://zhanglab-bioinf.com/GraphCPLMQA/userResult/GCPL.
 weight file for esm_if:*https://dl.fbaipublicfiles.com/fair-esm/models/esm_if1_gvp4_t16_142M_UR50.pt*
 
 weight file for esm2:*https://dl.fbaipublicfiles.com/fair-esm/models/esm_if1_gvp4_t16_142M_UR50.pt*
-> Please copy the corresponding file to the corresponding folder. The best.pkl file is stored in *(project-path)*/QA_Model. The weight files of esm_if and esm2 are stored in *(project-path)*/esm-main/esm-pt/
+> Please copy the corresponding file to the corresponding folder. The GCPL.pkl file is stored in *(project-path)*/QA_Model. The weight files of esm_if and esm2 are stored in *(project-path)*/esm-main/esm-pt/
 
 ## Predict
 *(project-path)*/bin/run_monomer.sh *pdb-dir*
