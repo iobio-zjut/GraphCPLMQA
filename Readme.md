@@ -6,7 +6,7 @@ image:
 harbor.biomap-int.com/guangxing_2023/modelselection:v1
 
 ## weight file
-weight file for network:*xxxx/best.pkl*
+weight file for network:*http://zhanglab-bioinf.com/GraphCPLMQA/userResult/best.pkl*
 
 weight file for esm_if:*https://dl.fbaipublicfiles.com/fair-esm/models/esm_if1_gvp4_t16_142M_UR50.pt*
 
