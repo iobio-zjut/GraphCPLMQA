@@ -1,5 +1,5 @@
-# Monomer Model Quality Assessment
-Model quality assessment of monomeric protein structures using language models.
+# Model Quality Assessment
+Model quality assessment of protein structures using language models.
 
 ## weight file
 weight file for network:*http://zhanglab-bioinf.com/GraphCPLMQA/userResult/GCPL.pkl*
