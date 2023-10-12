@@ -39,7 +39,7 @@ python $project_path/esm-main/monomer_str_emb.py $input_dir $input_str_emb
 
 ## run QA ###
 cd $project_path
-python $project_path/bin/Monomer_QA.py -lt -v -p 20 $input_dir $input_str_emb $input_dir
+python $project_path/bin/GCPL_QA.py -lt -v -p 20 $input_dir $input_str_emb $input_dir
 
 # check 
 if [ $del_temp_file == "T" ]; then
