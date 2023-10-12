@@ -1,4 +1,4 @@
-name: CPL
+name: GCPL
 channels:
   - https://levinthal:paradox@conda.graylab.jhu.edu
   - pytorch
