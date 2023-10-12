@@ -147,4 +147,3 @@ dependencies:
       - torch-sparse==0.6.17+pt20cu118
       - torch-spline-conv==1.2.2+pt20cu118
       - yacs==0.1.8
-prefix: /opt/conda/envs/modelrank
